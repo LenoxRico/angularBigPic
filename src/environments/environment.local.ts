@@ -4,7 +4,7 @@
 // The list of which env maps to which file can be found in `angular-cli.json`.
 
 export const environment = {
-  production: true,
-  endpointUrl: 'http://localhost:8080',
+  production: false,
+  endpointUrl: 'http://localhost:8080/angularBigPic/api',
   env: 'LOCAL'
 };
